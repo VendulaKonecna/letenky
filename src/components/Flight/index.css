@@ -12,7 +12,7 @@
   .flight__icon {
     width: 4rem;
     height: 4rem;
-    background-image: url(img/ariplane.svg);
+    background-image: url('../../img/ariplane.svg');
     background-size: contain;
     background-repeat: no-repeat;
   }
